@@ -12,23 +12,23 @@ Instale o arquivo, e direcione-se à pasta bin/Debug. Abra o
 executável trabalho-comp-grafica-5 ali contido.
 
 ## Comandos:
-### **1 e 2 (zoom in e zoom out):
+### *1 e 2 (zoom in e zoom out):*
 Aumenta e diminui a área dos sensores, permitindo captar um
 ###sinal maior do espaço.
-### **Barra de Espaço:
+### *Barra de Espaço:*
 Inicia o ciclo de movimento da formiga, e o impede.
-### **W A S D:
+### *W A S D:*
 Permitem que a cabeça da criatura gire pra cima, pra baixo,
 pra esquerda, e pra direita respectivamente.
-### **Q e E:
+### *Q e E:*
 Deslocam as antenas da Formiga para cima e para Baixo,
 respectivamente
-### **Click Esquerdo do Mouse (Pan da Camera):
+### *Click Esquerdo do Mouse (Pan da Camera):*
 Desloca os sensores, permitindo trocar a visão através do
 espaço
-### **Click Direito do Mouse (Deslocamento da Camera):
+### *Click Direito do Mouse (Deslocamento da Camera):*
 Alterna o ângulo dos sensores, permitindo observar diferentes
 ângulos dos arredores.
-### **Z e X:
+### *Z e X:*
 Expande e contraí, respectivamente, as mandíbulas da
 Formiga.
