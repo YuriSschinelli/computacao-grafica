@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1793058006 source:c:\users\yuri\documents\opengl\trabalho-comp-grafica-5\main.cpp
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"RgbImage.h"
+
+1793051352 source:c:\users\yuri\documents\opengl\trabalho-comp-grafica-5\rbgimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1793051996 c:\users\yuri\documents\opengl\trabalho-comp-grafica-5\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1792865596 source:c:\users\yuri\documents\opengl\trabalho-comp-grafica-5\garra.cpp
+	<math.h>
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
